@@ -1,0 +1,286 @@
+*{
+    
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    font-family: monospace;
+    background-image: url(https://www.casadopapeldeparede.com.br/images/p/idea-of-art/19-02524-30.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}   
+
+header{
+    color: rgb(18 18 18 / 75%);
+    padding: 2rem;
+    font-family: 'Montserrat', sans-serif;   
+    height: 50px;
+    background-color: rgba(131, 123, 123, 0.747);
+}
+li a:hover{
+    background-color: rgb(140, 204, 199);
+    opacity: 0.7;
+}
+
+li a{
+    margin-left: 10px;
+    color:black;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.411);
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+ul li{
+    padding: 0.5rem;
+    list-style: none;
+    display: inline-flex;
+}
+nav ul{
+    padding: 0;
+    display: inline-table;
+    background-image: url(https://www.casadopapeldeparede.com.br/images/p/idea-of-art/19-02524-30.jpg);
+}
+footer{
+    position: relative;
+    font-size: 15px;
+    text-align: initial;
+    background-color: rgba(131, 123, 123, 0.747);
+    bottom: 0;
+        position: fixed;
+        width: 100%;
+        text-align: center;
+    margin-right: 0%;
+    
+}
+.termo{
+    text-align: center;
+    color: rgb(39, 37, 37);
+    margin-top: 5rem;
+}
+
+.lista1{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(39, 37, 37);
+    font-size: 25px
+}
+#logotime{
+    margin-right: 9%;
+    border-radius: 50%;
+    box-shadow: 0 0 1em rgb(140, 204, 199);
+}
+
+.navbarr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 4rem;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    margin: auto;
+}
+.calctitl{
+    text-align: left;
+}
+.calculadora{
+    flex-direction: inherit;
+    width: 17%;
+    font-size: x-large;
+}
+
+.editorial{
+    margin-block: inherit;
+    text-align: center;
+    margin-left: 23rem;
+    margin-top: 4rem;
+    display: block;
+    font-size: 15px;
+}
+
+.editorial-2{
+    text-align: center;
+    margin-left: 180px;
+}
+
+.aplicacao{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    margin-top: 4rem;
+    font-size: large;
+}
+
+
+
+.leis{
+    display: inline-block;
+    font-size: large;
+    background-image: url(https://www.casadopapeldeparede.com.br/images/p/idea-of-art/19-02524-30.jpg) ;
+    margin-inline-end: auto;
+}
+
+.lei0{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.lei1{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.lei2{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    margin-top: 93px;
+}
+
+.lei3{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    margin-top: 93px;
+}
+
+.menubar{
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 15rem;
+    margin-left: 250px;
+}
+
+.experimento{
+    align-items: center;
+    margin-left: 30rem;
+}
+
+.referencias2{
+    display: flex;
+    margin-top: 2rem;
+    
+
+}
+
+.Caue{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.ana{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+    align-items: center;
+}
+
+.julia{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+    align-items: center;
+}
+
+.gabriel{
+    border: 2px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+    align-items: center;
+}
+
+
+.experientoss{
+    background-image:url(https://www.casadopapeldeparede.com.br/images/p/idea-of-art/19-02524-30.jpg);
+    align-items: flex-end;
+    
+}
+
+.fotosexpe{
+    margin-top: 4rem;
+    margin-left: 18rem;
+    align-items: center;
+    background-image:url(https://www.casadopapeldeparede.com.br/images/p/idea-of-art/19-02524-30.jpg) ;
+}
+
+.calc{
+    display: ruby-base-container;
+}
+
+.output{
+    border: 1px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+    align-items: center;
+    font-weight: bold;
+    
+}
+
+.navbarrcalc{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 2rem;
+}
+
+
+.fórmulas{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.referencias{
+    margin-top: 10rem;
+    border: 1px solid dimgray;
+    border-radius: 2rem;
+    border-width: 2px;
+    text-align: center;
+    margin-top: auto;
+    align-items: center;
+    font-weight: bold;
+    width: 70%;
+    margin-left: 10rem;
+}
